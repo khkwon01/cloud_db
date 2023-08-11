@@ -1,5 +1,5 @@
 
-## 1. Cloud bigquery dashboard
+## 1. Cloud bigquery first screen (welcome page)
 ![image](https://github.com/khkwon01/cloud_db/assets/8789421/4bfb1a9d-470c-4a8c-a800-35ebd0502b59)
 
 ## 2. create dataset
