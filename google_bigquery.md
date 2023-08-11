@@ -10,6 +10,7 @@
 
 ## 4. create table into dataset
 ![image](https://github.com/khkwon01/cloud_db/assets/8789421/8ab1acc9-689a-4594-b8c2-b0b649ac4f40)
+![image](https://github.com/khkwon01/cloud_db/assets/8789421/b764e6f6-7ec0-43c0-a53a-43fdf58443c7)
 
 ## 5. create table with various file format like the following
 ![image](https://github.com/khkwon01/cloud_db/assets/8789421/95e155d8-8faf-44cf-80eb-29aab86579a5)
