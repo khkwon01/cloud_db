@@ -14,7 +14,7 @@
 ## 5. create table with various file format like the following
 ![image](https://github.com/khkwon01/cloud_db/assets/8789421/95e155d8-8faf-44cf-80eb-29aab86579a5)
 
-## 6. forecast table schema based on csv data as well as skip header in csv
+## 6. Forecast table schema based on csv data as well as skip header in csv
 ![image](https://github.com/khkwon01/cloud_db/assets/8789421/fc2545c0-a4d4-4929-b25b-3d3b37e3bed5)
 
 ## 7. Actual generated table screen for table schema
@@ -23,7 +23,7 @@
 ## 8. Actual preview data imported from object storage
 ![image](https://github.com/khkwon01/cloud_db/assets/8789421/bb9adfe9-2e15-458f-a749-88aa2cf38f62)
 
-## 9. execution screen for several query example of complicated query
+## 9. Execution screen for several query example of complicated query
 ![image](https://github.com/khkwon01/cloud_db/assets/8789421/9bc63702-0c61-47b9-ab3d-d5be3a810b03)
 
 ![image](https://github.com/khkwon01/cloud_db/assets/8789421/74260e0b-5270-4f3c-b5b9-ca9c497a5174)
