@@ -16,7 +16,7 @@
 ## 5. create table with various file format like the following
 ![image](https://github.com/khkwon01/cloud_db/assets/8789421/95e155d8-8faf-44cf-80eb-29aab86579a5)
 
-## 6. Forecast table schema based on csv data as well as skip header in csv
+## 6. Detect or forecast table schema based on csv data as well as skip header in csv
 ![image](https://github.com/khkwon01/cloud_db/assets/8789421/fc2545c0-a4d4-4929-b25b-3d3b37e3bed5)
 
 ## 7. Actual generated table screen for table schema
