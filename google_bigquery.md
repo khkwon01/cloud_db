@@ -20,7 +20,7 @@
 ## 7. Actual generated table screen for table schema
 ![image](https://github.com/khkwon01/cloud_db/assets/8789421/3ea9befa-2d4b-4016-ad19-bfb44d4a46dd)
 
-## 8. Actual preview data pointed to external file of object storage
+## 8. Actual preview data imported from object storage
 ![image](https://github.com/khkwon01/cloud_db/assets/8789421/bb9adfe9-2e15-458f-a749-88aa2cf38f62)
 
 ## 9. execution screen for several query example of complicated query
