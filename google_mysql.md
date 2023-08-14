@@ -23,5 +23,6 @@
 
 ## 8. set up filter configuration in channel
 ![image](https://github.com/khkwon01/cloud_db/assets/8789421/485fda43-ca02-4fac-8625-0046d4dd441d)
+![image](https://github.com/khkwon01/cloud_db/assets/8789421/d88aca03-d21b-4cca-a002-02faa3fb1676)
 
 
