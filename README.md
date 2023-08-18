@@ -8,5 +8,5 @@
 | `google` | MySQL, PostgreSQL, MS SQL, Spanner | Bigquery, Bigtable | filestore |
 
 
-# Google Database type
+# google database type
 ![image](https://github.com/khkwon01/cloud_db/assets/8789421/a2fe3d16-9dd0-4972-bd5f-d14a70867588)
